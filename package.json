@@ -10,6 +10,7 @@
   "dependencies": {
     "@heroicons/react": "^2.0.10",
     "next": "12.2.5",
+    "pnpm": "^9.9.0",
     "puppeteer": "^17.1.0",
     "puppeteer-extra": "^3.3.4",
     "puppeteer-extra-plugin-stealth": "^2.11.1",
